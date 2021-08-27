@@ -19,9 +19,30 @@ body{
 }
 .about {
   margin-top: 10px;
+  height: 600px;
 }
 .about>h1 {
   padding: 0;
   text-align: center;
   width: 1180px;
+}
+.background {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+#education {
+  background-color: #ffffff;
+  width: 365px;
+  height: 300px;
+}
+#job{
+  background-color: #ffffff;
+  width: 365px;
+  height: 300px;
+}
+#interests{
+  background-color: #ffffff;
+  width: 365px;
+  height: 300px;
 }
