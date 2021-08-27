@@ -1,0 +1,13 @@
+.sec1 {
+  display: flex;
+}
+.sec1 h1 {
+  font-size: 25px;
+  background-color: #6083FF;
+  width: 1167px;
+  height: 104px;
+  padding-top: 79px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+  margin: 0;
+}
