@@ -50,3 +50,13 @@ h4 {
   font-size: medium;
   color: #9E3514;
 }
+#reason {
+  background-color: #ffffff;
+  height: 150px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 2px;
+  border-radius: 110px;
+}
