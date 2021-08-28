@@ -74,6 +74,7 @@ ol>li {
 .date {
   font-style: italic;
   color: #6083FF;
+  font-weight: bold;
   text-align: left;
 }
 ul>li{
