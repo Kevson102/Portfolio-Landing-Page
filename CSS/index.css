@@ -35,6 +35,7 @@ body{
   background-color: #ffffff;
   width: 365px;
   height: 300px;
+  overflow-y: scroll;
 }
 #job{
   background-color: #ffffff;
@@ -65,4 +66,17 @@ h4 {
 }
 th{
   text-align: center;
+}
+ol>li {
+  font-weight: bold;
+  border: 1px solid black;
+}
+.date {
+  font-style: italic;
+  color: #6083FF;
+  text-align: left;
+}
+ul>li{
+  margin: 0;
+  text-align: left;
 }
