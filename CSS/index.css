@@ -41,6 +41,7 @@ body{
   background-color: #ffffff;
   width: 365px;
   height: 300px;
+  overflow-y: scroll;
 }
 #interests{
   background-color: #ffffff;
@@ -80,4 +81,15 @@ ol>li {
 ul>li{
   margin: 0;
   text-align: left;
+}
+.role {
+  font-style: italic;
+  color: #9E3514;
+  font-size: small;
+  text-align: left;
+}
+.duties {
+  font-weight: bold;
+  margin: 0;
+  border-bottom: 1px solid black;
 }
