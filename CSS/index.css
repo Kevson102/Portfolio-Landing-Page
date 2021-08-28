@@ -47,6 +47,7 @@ body{
   background-color: #ffffff;
   width: 365px;
   height: 300px;
+  overflow-y: scroll;
 }
 h4 {
   font-size: medium;
