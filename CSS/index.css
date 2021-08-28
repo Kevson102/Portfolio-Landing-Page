@@ -110,3 +110,104 @@ a:hover{
   background-color: #9E3514;
   color: white;
 }
+}
+@media (min-width: 576px){}
+  /* .background{
+    display: flex;
+    flex-direction: column;
+  }
+  .about{
+    height: auto;
+  } */
+  /* #education {
+    margin-bottom: 10px;
+    width: 200px;
+
+  }
+  #job {
+    margin-bottom: 10px;
+    width: 539px;
+  }
+  #interests{
+    width: 539px;
+  }
+  #reason {
+    width: auto;
+    height: auto;
+  } */
+
+@media (max-width: 768px){
+  .background{
+    display: flex;
+    flex-direction: column;
+  }
+  .about{
+    height: auto;
+  }
+  #education {
+    margin-bottom: 10px;
+    width: 539px;
+
+  }
+  #job {
+    margin-bottom: 10px;
+    width: 539px;
+  }
+  #interests{
+    width: 539px;
+  }
+  #reason {
+    width: auto;
+    height: auto;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px){
+  .background{
+  display: flex;
+  flex-direction: column;
+}
+.about{
+  height: auto;
+}
+#education {
+  margin-bottom: 10px;
+  width: 720px;
+
+}
+#job {
+  margin-bottom: 10px;
+  width: 720px;
+}
+#interests{
+  width: 720px;
+}
+#reason {
+  width: auto;
+  height: auto;
+}
+}
+@media (min-width: 993px) and (max-width: 1200px){
+  .background{
+  display: flex;
+  flex-direction: column;
+}
+.about{
+  height: auto;
+}
+#education {
+  margin-bottom: 10px;
+  width: 960px;
+
+}
+#job {
+  margin-bottom: 10px;
+  width: 960px;
+}
+#interests{
+  width: 960px;
+}
+#reason {
+  width: auto;
+  height: auto;
+}
+}
