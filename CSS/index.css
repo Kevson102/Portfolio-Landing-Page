@@ -70,6 +70,10 @@ h5 {
 #reason>h4{
   text-align: center;
 }
+#reason>p{
+  margin: 0;
+  text-align: center;
+}
 th{
   text-align: center;
 }
@@ -101,4 +105,8 @@ ul>li{
 img {
   float: right;
   margin-right: 25px;
+}
+a:hover{
+  background-color: #9E3514;
+  color: white;
 }
