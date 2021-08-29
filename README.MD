@@ -21,9 +21,9 @@ NONE
 1. HTML
 2. CSS
 ## Support and contact details
-Email: Kevson3941@gmail.com
-Phone no. +254 733 916258
+*Email: Kevson3941@gmail.com
+*Phone no. +254 733 916258
 ### License
-<a href="./LICENSE.MD">MIT</a>
+<a href="./LICENSE.MD" target = "_blank">MIT</a>
 
 Copyright (c) 2021 **Portfolio Landing page-Nyambura Kelvin Njuguna**
