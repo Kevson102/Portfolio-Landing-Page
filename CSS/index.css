@@ -14,6 +14,9 @@ body{
   font-size: 30px;
   padding-top: 79px;
 }
+.section>h2 {
+  text-align: center;
+}
 #name {
   color: #9E3514;
   
@@ -111,30 +114,31 @@ a:hover{
   color: white;
 }
 }
-@media (min-width: 576px){}
+@media (max-width: 576px){
   /* .background{
     display: flex;
     flex-direction: column;
   }
   .about{
     height: auto;
-  } */
-  /* #education {
+  }
+  #education {
     margin-bottom: 10px;
-    width: 200px;
+    width: auto;
 
   }
   #job {
     margin-bottom: 10px;
-    width: 539px;
+    width: auto;
   }
   #interests{
-    width: 539px;
+    width: auto;
   }
   #reason {
     width: auto;
     height: auto;
-  } */
+    border-radius: 0px; */
+  }
 
 @media (max-width: 768px){
   .background{
@@ -159,6 +163,7 @@ a:hover{
   #reason {
     width: auto;
     height: auto;
+    border-radius: 0px;
   }
 }
 @media (min-width: 769px) and (max-width: 992px){
@@ -184,6 +189,7 @@ a:hover{
 #reason {
   width: auto;
   height: auto;
+  border-radius: 0px;
 }
 }
 @media (min-width: 993px) and (max-width: 1200px){
@@ -209,5 +215,9 @@ a:hover{
 #reason {
   width: auto;
   height: auto;
+  border-radius: 0px;
 }
+}
+.copyright>p{
+  text-align: center;
 }
